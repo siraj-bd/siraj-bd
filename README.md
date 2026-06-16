@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi, I'm Siraj Shahjahan 👋
 
-<!--
-**siraj7742175/siraj7742175** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏭 Assistant General Manager (Production) | Garment Manufacturing Expert
 
-Here are some ideas to get you started:
+With over 23 years of experience in the apparel industry, I am passionate about improving productivity, quality, and operational excellence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 What I Share Here
+
+- 🧵 Garment Production Tips
+- 📈 Sewing Line Efficiency Strategies
+- ✅ Quality Improvement Techniques
+- 👥 Leadership & Team Management Insights
+- 💻 MacBook Productivity Tips
+- 🪟 Windows Tricks
+- 📱 Mobile Productivity Tips
+
+## 🎯 My Mission
+
+To share practical knowledge and real-world experience that helps professionals work smarter and achieve better results.
+
+## 📫 Connect With Me
+
+- LinkedIn: company/sewing-process
+- Facebook: sewing.process
+
+⭐ Continuous learning and knowledge sharing drive success.
