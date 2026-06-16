@@ -6,13 +6,15 @@ With over 23 years of experience in the apparel industry, I am passionate about 
 
 ## 🔹 What I Share Here
 
-- 🧵 Garment Production Tips
-- 📈 Sewing Line Efficiency Strategies
-- ✅ Quality Improvement Techniques
-- 👥 Leadership & Team Management Insights
-- 💻 MacBook Productivity Tips
-- 🪟 Windows Tricks
-- 📱 Mobile Productivity Tips
+## 🔹 What I Share Here
+
+✔️ 🧵 Garment Production Tips
+✔️ 📈 Sewing Line Efficiency Strategies
+✔️ ✅ Quality Improvement Techniques
+✔️ 👥 Leadership & Team Management Insights
+✔️ 🍎 MacBook Productivity Tips
+✔️ 🪟 Windows Productivity Tips
+✔️ 📱 Mobile Tech & Productivity Tips
 
 ## 🎯 My Mission
 
