@@ -5,9 +5,6 @@ Hi, I'm Siraj Shahjahan 👋
 With over 23 years of experience in the apparel industry, I am passionate about improving productivity, quality, and operational excellence.
 
 ## 🔹 What I Share Here
-
-## 🔹 What I Share Here
-
 ✓ 🧵 Garment Production Tips
 ✓ 📈 Sewing Line Efficiency Strategies
 ✓ ✅ Quality Improvement Techniques
