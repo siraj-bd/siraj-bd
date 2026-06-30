@@ -1,4 +1,4 @@
-Hi, I'm Siraj Shahjahan 👋
+Hi, I'm Shahjahan Siraj 👋
 
 🏭 Assistant General Manager (Production) | Garment Manufacturing Expert
 
